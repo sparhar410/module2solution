@@ -1,0 +1,16 @@
+{
+    "name": "module-solution2",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "deploy": "gh-pages -d module2solution"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "homepage": "https://sparhar410.github.io/module2solution",
+    "dependencies": {
+        "gh-pages": "^2.2.0"
+    }
+}
